@@ -4,6 +4,7 @@ Welcome to my GitHub profile
 ___________________________________________________________________________
 🚀 About Me:
 💻 Core Skills:
+
 >Backend: Java,Spring Boot, MVC,JDBC,Hibernate
 
 >Database: SQL, MySQL
@@ -11,5 +12,7 @@ ___________________________________________________________________________
 📫 Let's Connect:
 
 LinkedIn
+
 GitHub
+
 Email
