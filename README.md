@@ -5,9 +5,9 @@ ___________________________________________________________________________
 🚀 About Me:
 💻 Core Skills:
 
->Backend: Java,Spring Boot, MVC,JDBC,Hibernate
+Backend: Java,Spring Boot, MVC,JDBC,Hibernate
 
->Database: SQL, MySQL
+Database: SQL, MySQL
 
 📫 Let's Connect:
 
